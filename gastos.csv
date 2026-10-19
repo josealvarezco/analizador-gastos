@@ -1,0 +1,19 @@
+fecha,categoria,descripcion,monto
+2026-01-05,Comida,Supermercado,85000
+2026-01-08,Transporte,Gasolina,60000
+2026-01-12,Entretenimiento,Cine,25000
+2026-01-15,Comida,Restaurante,45000
+2026-01-20,Servicios,Internet,70000
+2026-01-25,Salud,Farmacia,30000
+2026-02-02,Comida,Supermercado,92000
+2026-02-06,Transporte,Uber,18000
+2026-02-10,Entretenimiento,Streaming,12000
+2026-02-14,Comida,Restaurante,55000
+2026-02-18,Servicios,Electricidad,65000
+2026-02-24,Salud,Consulta medica,120000
+2026-03-01,Comida,Supermercado,88000
+2026-03-05,Transporte,Gasolina,62000
+2026-03-09,Entretenimiento,Cine,25000
+2026-03-15,Comida,Restaurante,40000
+2026-03-20,Servicios,Internet,70000
+2026-03-28,Salud,Farmacia,22000
